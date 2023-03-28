@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. What is the biggest bird in the world?",
+      "Q2. Which city is the Cape Verde?",
+      "Q3. Smallest country in the world?",
+      "Q4. biggest city in the world?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+  
+      ["Ostrich",
+        "Eagle",
+        "Peacock",
+        "Swan"
+      ],
+      ["Lisbon",
+        "Praia",
+        "Paris",
+        "Luanda"
+      ],
+      ["Cape Verde",
+        "Portugal",
+        "The State of Vatican City",
+        "Gibraltar"
+      ],
+      ["Delhi",
+        "Tokyo",
+        "Shanghai",
+        "Brasilia"
+      ]
+    ]
+  }
